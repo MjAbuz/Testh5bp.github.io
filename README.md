@@ -1,5 +1,5 @@
-# h5bp.github.io
+# MediaJockey.github.io
 
-Display for all the H5BP projects.
+Display for all the MediaJockey projects.
 
 Adapted from [twitter.github.com](https://github.com/twitter/twitter.github.com).
